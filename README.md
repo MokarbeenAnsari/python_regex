@@ -1,2 +1,2 @@
-# python_regex
+# Python RegEx
 Simple notes for Python Regular Expression.
